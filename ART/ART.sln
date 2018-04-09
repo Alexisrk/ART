@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ART", "ART\ART.csproj", "{38377734-55A2-4669-8664-E1153769D64A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimization", "Optimization\Optimization.csproj", "{52511379-C81E-43FE-886A-BE39FA3C0291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38377734-55A2-4669-8664-E1153769D64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38377734-55A2-4669-8664-E1153769D64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38377734-55A2-4669-8664-E1153769D64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38377734-55A2-4669-8664-E1153769D64A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52511379-C81E-43FE-886A-BE39FA3C0291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52511379-C81E-43FE-886A-BE39FA3C0291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52511379-C81E-43FE-886A-BE39FA3C0291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52511379-C81E-43FE-886A-BE39FA3C0291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E743571-CBD2-48A3-B8FE-5484300AC6FD}
+	EndGlobalSection
+EndGlobal

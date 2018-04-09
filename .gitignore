@@ -1,0 +1,8 @@
+*.suo
+/Debug/*
+*/Debug/*
+*/ART/obj/*
+*/ART/bin/*
+/ART/.vs/ART/*
+*bin*
+*obj*
